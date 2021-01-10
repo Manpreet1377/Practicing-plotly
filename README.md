@@ -1,0 +1,2 @@
+# Practicing-plotly
+This is my first attempt at learning a new data visualization tool: plotly. I have been using the conventional libraries(matplotlib and seaborn) in all my data visualization endeavors and wanted to explore other visualization libraries. Having experimented for over 10 hours, plotly turned out to be my favorite visualization library given its ease of integration into web development source codes and powerful visualizations with just a few lines of codes. 
